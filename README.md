@@ -2,4 +2,4 @@
 Boilerplate to work with the Dynamics SDK with .Net
 
 Debugging plugins and custom workflow activities is time-consuming with the Plugin-Registration tool.  
-This console app gives you 90% of the functionality and when you've worked out the kinks, you can then deploy to the environment. 
+This console app allows you to imitate the plugin environment and leverage VS debugging features. 
